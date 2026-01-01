@@ -1,6 +1,6 @@
 # 2110446 Data Science and Data Engineering @CU (2025/2)
 
-![alt text](https://github.com/pvateekul/2110446_DSDE_2025s2/blob/main/image/meme.jpeg?raw=true)
+![alt text](https://github.com/pvateekul/2110446_DSDE_2025s2/blob/main/image/meme.jpeg)
 
 ## Syllabus:
 
