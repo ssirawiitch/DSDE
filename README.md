@@ -4,7 +4,7 @@
 
 ## Syllabus:
 
-[Syllabus](slide/xxxx.pdf)
+[Syllabus](slide/DSDE_Syllabus_2025s2-1105661-17673266757242.pdf)
 
 ## Code:
 
