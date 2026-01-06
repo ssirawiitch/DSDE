@@ -1,0 +1,6 @@
+1. start running by ctrl + shift + p
+2. choose python interpreter to dsde conda
+3. use conda terminal
+4. conda activate dsde
+5. cd to directory
+6. python main.py
