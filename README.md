@@ -93,7 +93,7 @@
 8. Fine-tuning a Local LLM (Typhoon-7B) [`Hugging Face`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week07_GenerativeAI/7_8_LLM_Typhoon7b_Finetuning_Huggingface.ipynb)
 
 
-### Week06(2): Advanced ML (Transformer, Model Monitoring, Text Classification)
+### Week06(2): Text Classification
 
 1. Text Classification (TF-IDF) [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week05_AdvancedML/5_2_tfidf_for_Sentiment_Analysis.ipynb)
 
