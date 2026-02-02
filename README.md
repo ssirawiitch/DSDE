@@ -64,9 +64,9 @@
 !-->
 2-2. Image classification with EfficientNetb0 (Load a Pretrained Model from Hugging Face) [`PyTorch Lightning`] with Weights & Biases: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/2_4_Image_classification_Animal_EfficientNet(lightning)_wandb_HuggingFace.ipynb)
 
-3-1. Object detection with YOLOv8 (basic script): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/3_2_Object_detection_VOCDetection_yolov8_basic.ipynb)
+3-1. Object detection with YOLOv8 (basic script) [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/3_2_Object_detection_VOCDetection_yolov8_basic.ipynb)
 
-3-2. Object detection with YOLOv8 (custom dataset): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/3_3_Object_detection_VOCDetection_yolov8_advanced.ipynb)
+3-2. Object detection with YOLOv8 (custom dataset) [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/3_3_Object_detection_VOCDetection_yolov8_advanced.ipynb)
 
 4. Semantic segmentation with deeplabv3 [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/4_Semantic_segmentation_Camseq_deeplabv3_DataInGD(lightning).ipynb)
 
