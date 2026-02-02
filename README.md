@@ -54,23 +54,23 @@
 
 ### Week 05: Intro to Deep Learning
 
-1. Image classification with CNN (PyTorch Lightning): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/1_Image_classification_CIFAR10_CNN(lightning).ipynb)
+1. Image classification with CNN [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/1_Image_classification_CIFAR10_CNN(lightning).ipynb)
 
-2-1. Image classification with EfficientNetV2s (PyTorch Lightning): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/2_Image_classification_Animal_EfficientNetV2(lightning).ipynb)
+2-1. Image classification with EfficientNetV2s [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/2_Image_classification_Animal_EfficientNetV2(lightning).ipynb)
 <!--
 2-2. Image classification with EfficientNetV2s (PyTorch Lightning) with TensorBoard: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/2_2_Image_classification_Animal_EfficientNetV2(lightning)_TensorBoard.ipynb)
 
 2-3. Image classification with EfficientNetV2s (PyTorch Lightning) with Weights & Biases: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/2_3_Image_classification_Animal_EfficientNetV2(lightning)_wandb.ipynb)
 !-->
-2-2. Image classification with EfficientNetb0 (Load a Pretrained Model from Hugging Face) (PyTorch Lightning) with Weights & Biases: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/2_4_Image_classification_Animal_EfficientNet(lightning)_wandb_HuggingFace.ipynb)
+2-2. Image classification with EfficientNetb0 (Load a Pretrained Model from Hugging Face) [`PyTorch Lightning`] with Weights & Biases: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/2_4_Image_classification_Animal_EfficientNet(lightning)_wandb_HuggingFace.ipynb)
 
 3-1. Object detection with YOLOv8 (basic script): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/3_2_Object_detection_VOCDetection_yolov8_basic.ipynb)
 
 3-2. Object detection with YOLOv8 (custom dataset): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/3_3_Object_detection_VOCDetection_yolov8_advanced.ipynb)
 
-4. Semantic segmentation with deeplabv3 (PyTorch Lightning): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/4_Semantic_segmentation_Camseq_deeplabv3_DataInGD(lightning).ipynb)
+4. Semantic segmentation with deeplabv3 [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/4_Semantic_segmentation_Camseq_deeplabv3_DataInGD(lightning).ipynb)
 
-5. Time series Forecasting: Stock Price: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/5_Time_series_forecasting_DataInGD_update.ipynb)
+5. Time series Forecasting: Stock Price [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week04_DL/5_Time_series_forecasting_DataInGD_update.ipynb)
 
 ### Week06: Advanced ML (Transformer, Model Monitoring, Text Classification)
 
