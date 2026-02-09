@@ -82,7 +82,7 @@
 
 3. Advanced Prompt Engineering [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week07_GenerativeAI/7_3_LLM_Prompt_Engineering_Advanced_LangChain.ipynb)
 
-4. LangChain Playground and Tracking with LangSmith [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week07_GenerativeAI/7_4_LLM_LangChiain_Playground_Tracking_with_LangSmith.ipynb)
+4. LangChain Playground and Tracking with LangSmith [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week07_GenerativeAI/7_4_LLM_LangChain_Playground_Tracking_with_LangSmith.ipynb)
 
 5. Basic LangGraph [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week07_GenerativeAI/7_5_LLM_Basic_LangGraph.ipynb)
 
