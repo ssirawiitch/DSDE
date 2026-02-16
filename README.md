@@ -95,11 +95,11 @@
 
 1. Text Classification (TF-IDF) [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week05_AdvancedML/5_2_tfidf_for_Sentiment_Analysis.ipynb)
 
-2. Text Classification (BERT) [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week05_AdvancedML/5_3_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb#scrollTo=tQqHYsWVTV6D)
+2. Text Classification (BERT) [`PyTorch`] Training duration ~5mins: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week05_AdvancedML/5_3_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb#scrollTo=tQqHYsWVTV6D)
 
-3. Text Classification (Phayathaibert) [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week05_AdvancedML/5_4_Wongnai_Review_Rating_Classifiacation_(Pytorch_lightning).ipynb)
+3. Text Classification (Phayathaibert) [`PyTorch Lightning`] Training duration ~30mins: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week05_AdvancedML/5_4_Wongnai_Review_Rating_Classifiacation_(Pytorch_lightning).ipynb)
 
-4. Multi-label Text Classification (microsoft/deberta-v3-small) [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week05_AdvancedML/5_5_Multi_label_Text_Classification.ipynb)
+4. Multi-label Text Classification (microsoft/deberta-v3-small) [`PyTorch`] Training duration ~10mins: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2025s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2025s2/blob/main/code/Week05_AdvancedML/5_5_Multi_label_Text_Classification.ipynb)
 
 ### Week06(3): Typhoon LLM 
 
